@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
   <!-- Languages -->
+  <p><strong>Languages:</strong></p>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> 
@@ -59,6 +60,7 @@ Here are some ideas to get you started:
   <br><br>
 
   <!-- Technologies -->
+  <p><strong>Technologies:</strong></p>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
   </a> 
@@ -83,6 +85,7 @@ Here are some ideas to get you started:
   <br><br>
 
   <!-- Databases -->
+  <p><strong>Databases:</strong></p>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   </a> 
@@ -98,6 +101,7 @@ Here are some ideas to get you started:
   <br><br>
 
   <!-- Tools -->
+  <p><strong>Tools:</strong></p>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
@@ -110,14 +114,15 @@ Here are some ideas to get you started:
   <br><br>
 
   <!-- Software -->
+  <p><strong>Software:</strong></p>
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
   </a> 
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
   </a> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/get-icon/geticon/blob/master/icons/adobe-premiere_pro.svg" alt="illustrator" width="40" height="40"/> 
+  <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/get-icon/geticon/blob/master/icons/adobe-premiere_pro.svg" alt="premierepro" width="40" height="40"/> 
   </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/get-icon/geticon/blob/master/icons/adobe-photoshop.svg" alt="photoshop" width="40" height="40"/> 
