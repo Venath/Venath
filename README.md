@@ -15,12 +15,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Venath Randima</h1>
+
+<marquee><h1 align="center">Hi 👋, I'm Venath Randima</h1></marquee>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Proggy+Fonts&size=24&pause=1000&color=1CC7C5&random=false&width=435&lines=Welcome+To+My+GitHub+Profile..." alt="Typing SVG" /></a>
+</div>
 <h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venath&label=Profile%20views&color=0e75b6&style=flat" alt="venath" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venath" alt="venath" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venath" alt="venath" /></a> </p> -->
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=venath&theme=gitdimmed&no-bg=true&no-frame=true&margin-w=15&margin-h=15&row=2&column=6" alt="Venath" /> </p>
 
 - 🔭 I’m currently working on [something new](https://venath.github.io/portfolio/)
 
