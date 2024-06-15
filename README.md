@@ -24,9 +24,8 @@ Here are some ideas to get you started:
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=venath&label=Visitors&color=0e75b6&style=flat" alt="venath" /> 
-  <a href="https://jacobcolvin.com">
-    <img alt="Website" src="https://img.shields.io/website?url=https://venath.github.io/portfolio/">
-  </a>
+  <a href="https://venath.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white" alt="https://venath.github.io/portfolio/" /></a>
 </p>
 </br>
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venath" alt="venath" /></a> </p> -->
