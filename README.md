@@ -135,11 +135,20 @@ Here are some ideas to get you started:
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=venath&show_icons=true&locale=en&layout=compact" alt="venath" /></p>
+<p align="center">
+   <a href="https://github.com/venath/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=venath&theme=react&show_icons=true&locale=en&hide_border=true&bg_color=0D1117" alt="venath" />
+  </a>
+  <a href="https://github.com/venath/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=venath&theme=react&hide_border=true&bg_color=0D1117&show_icons=true&locale=en&layout=compact" alt="venath" />
+  </a>
+ 
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venath&show_icons=true&locale=en" alt="venath" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venath&" alt="venath" /></p>
+<br/>
+
+ <p align="center"><a href=""> <img src="https://github-readme-streak-stats.herokuapp.com/?user=venath&show_icons=true&theme=holi-theme" alt="venath" /></a></p>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
