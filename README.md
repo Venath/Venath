@@ -22,8 +22,13 @@ Here are some ideas to get you started:
 </div>
 <h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=venath&label=Profile%20views&color=0e75b6&style=flat" alt="venath" /> </p>
-
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=venath&label=Visitors&color=0e75b6&style=flat" alt="venath" /> 
+  <a href="https://jacobcolvin.com">
+    <img alt="Website" src="https://img.shields.io/website?url=https://venath.github.io/portfolio/">
+  </a>
+</p>
+</br>
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venath" alt="venath" /></a> </p> -->
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=venath&theme=gitdimmed&no-bg=true&no-frame=true&margin-w=15&margin-h=15&row=2&column=6" alt="Venath" /> </p>
 
