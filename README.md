@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [something new](https://venath.github.io/portfolio/)
 
-- 👯 I’m looking to collaborate on **collaborate on New Projects**
+- 👯 I’m looking to **collaborate on New Projects**
 
 - 👨‍💻 All of my projects are available at [https://venath.github.io/portfolio/](https://venath.github.io/portfolio/)
 
