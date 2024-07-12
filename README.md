@@ -156,8 +156,13 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  ![snake gif](https://github.com/Venath/Venath/blob/output/github-contribution-grid-snake.gif)
-  
+</div>
+
+![snake gif](https://github.com/Venath/Venath/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center">
   <br/><br/><br/>
 </div>
+
+
+
