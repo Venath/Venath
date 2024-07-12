@@ -160,6 +160,7 @@ Here are some ideas to get you started:
 
 ![snake gif](https://github.com/Venath/Venath/blob/output/github-contribution-grid-snake.svg)
 
+
 <div align="center">
   <br/><br/><br/>
 </div>
