@@ -138,6 +138,21 @@ Here are some ideas to get you started:
   </a> 
 </p>
 
+ <h3><strong>My github pages</strong></h3>
+ <ul>
+   <li><a href='https://venath.github.io/portfolio/'>My Portfolio </a></li>
+   <li><a href='https://venath.github.io/Weather-App/'>Weather App </a></li>
+   <li><a href='https://venath.github.io/Memory_Game/'>Memory Game </a></li>
+
+
+ </ul>
+ <br>
+  <h3><strong>Live Pages</strong></h3>
+ <ul>
+   <li><a href='http://venath.pythonanywhere.com/'>Find DOB using NIC </a></li>
+   </ul>
+ 
+ 
 
 <p align="center">
    <a href="https://github.com/venath/github-readme-stats">
