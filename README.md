@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **venathrandima164@gmail.com**
 
-- ⚡ Fun fact **I am a parkour athlete** <a href="https://www.youtube.com/team_Ramp">RAMP</a>
+- ⚡ Fun fact **I am a parkour athlete** <a href="https://www.youtube.com/@team_ramp">RAMP</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
