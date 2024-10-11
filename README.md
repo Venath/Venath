@@ -152,9 +152,11 @@ Here are some ideas to get you started:
    <li><a href='http://venath.pythonanywhere.com/'>Find DOB using NIC </a></li>
    </ul>
     <ul>
-   <li><a href='https://facbook-clone-72arwsir8-venaths-projects.vercel.app/'>Facebook clone </a></li>
+   <li><a href='https://facbook-clone-72arwsir8-venaths-projects.vercel.app/'>Facebook Clone </a></li>
    </ul>
-
+   <ul>
+   <li><a href='https://currency-converter-y8mk.vercel.app/'>Currancy Converter </a></li>
+   </ul>
  
  
 
